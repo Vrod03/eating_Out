@@ -58,7 +58,7 @@ These numerical results show us that white people eat out %83.11 of the time and
 fisherXY(mydata$race, mydata$eatout, printAll = TRUE)
 ```
 
-
+This data shows that white people eat out much more and black and other people. Black people eat out more than other people.
 
 
 
